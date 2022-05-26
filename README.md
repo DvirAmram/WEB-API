@@ -1,5 +1,5 @@
 # WEB-API
-Second assignment of Advanced Programming 2 course at BIU.
+Second assignment of course - Advanced Programming 2 at BIU.
 
 <br>
 
